@@ -80,6 +80,7 @@
       "price": 19.9,
       "category": 1,
       "thumbnail_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-gorestaurant-mobile/ao_molho.png",
+      "quantity": 1,
       "extras": [
         {
           "id": 4,

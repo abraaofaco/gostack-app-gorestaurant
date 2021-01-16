@@ -37,6 +37,7 @@ const TabRoutes: React.FC = () => (
           <Icon size={25} name="shopping-bag" color={color} />
         ),
         title: 'Pedidos',
+        unmountOnBlur: true,
       }}
       component={Orders}
     />
@@ -48,6 +49,7 @@ const TabRoutes: React.FC = () => (
           <Icon size={25} name="heart" color={color} />
         ),
         title: 'Favoritos',
+        unmountOnBlur: true,
       }}
       component={Favorites}
     />
